@@ -2,6 +2,7 @@
 
 Horiseon helps businesses expand it's social media presence with modern marketing techniques and so we helped them expand their audience with accessibility features.
 <img width="1394" alt="Screen Shot 2021-12-15 at 9 19 03 PM" src="https://user-images.githubusercontent.com/94029792/146616797-c3c13de5-1d1a-461f-a9fc-2994f45bcc42.png">
+See the full site here: https://camillenicolet.github.io/Beyond-the-Horiseon/
 
 What was added? 
 -->Alt text has been added to all the images with detailed descriptions for people who are not able to see it themselves.
