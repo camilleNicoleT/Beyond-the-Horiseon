@@ -1,6 +1,6 @@
-# Accessibility for Horiseon
+# Refactoring for Horiseon
 
-Horiseon helps businesses expand it's social media presence with modern marketing techniques and so we helped them expand their audience with accessibility features.
+Horiseon helps businesses expand their social media presence with modern marketing techniques in turn we have helped them expand their audience with accessibility features.
 <img width="1394" alt="Screen Shot 2021-12-15 at 9 19 03 PM" src="https://user-images.githubusercontent.com/94029792/146616797-c3c13de5-1d1a-461f-a9fc-2994f45bcc42.png">
 See the full site here: https://camillenicolet.github.io/Beyond-the-Horiseon/
 
@@ -18,3 +18,5 @@ For example in the below images we see the selectors "main", "article", "nav" an
 ![Screen Shot 2021-12-17 at 6 18 06 PM](https://user-images.githubusercontent.com/94029792/146618509-d11dbd28-7614-412c-8961-b6aa3f13633d.png)
 
 <img width="131" alt="Screen Shot 2021-12-17 at 6 10 55 PM" src="https://user-images.githubusercontent.com/94029792/146618607-8ba561a2-bf33-4410-a840-f0d2b76a928a.png">
+
+-->Lastly, clear Labeling has been added to HTML and CSS code so that anyone making updates to the site can easily decipher the information.
