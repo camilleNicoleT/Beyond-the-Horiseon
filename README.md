@@ -6,7 +6,7 @@ Horiseon helps businesses expand it's social media presence with modern marketin
 What was added? 
 -->Alt text has been added to all the images with detailed descriptions for people who are not able to see it themselves.
 
-For example the following image has this description _"Various study materials on a desk. A notebook with the words SEO, Backlink, Content, Headings, Social Media, Link Building written in it._"
+For example the following image has this description _"Various study materials on a desk. A notebook with the words SEO, Backlink, Content, Headings, Social Media, etc., written on the page._"
 <img width="1049" alt="Screen Shot 2021-12-15 at 9 19 14 PM" src="https://user-images.githubusercontent.com/94029792/146616721-37c3368c-684f-4ed6-8c6c-b62be4435bc3.png">
 
 -->There are also various selectors to indicate different sections of the site so that it is easily deciphered by the person listening to the translation. 
