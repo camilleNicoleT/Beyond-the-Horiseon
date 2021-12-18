@@ -20,6 +20,6 @@ For example in the below images we see the selectors "main", "article", "nav" an
 <img width="131" alt="Screen Shot 2021-12-17 at 6 10 55 PM" src="https://user-images.githubusercontent.com/94029792/146618607-8ba561a2-bf33-4410-a840-f0d2b76a928a.png">
 
 -->Lastly, clear labeling has been added to HTML and CSS code so that anyone making updates to the site can easily decipher the information.
-Example in Image below
+Example in Image below:
 
 <img width="156" alt="Screen Shot 2021-12-18 at 12 53 55 PM" src="https://user-images.githubusercontent.com/94029792/146651279-19463283-76d6-44fb-99da-6df63654c06a.png">
